@@ -1,2 +1,2 @@
-# HK-Housing-Price-TSA
-Hong Kong Housing Price Time Series Analysis
+# Hong Kong Property Prices Time Series Analysis
+
