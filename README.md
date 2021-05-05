@@ -3,8 +3,8 @@
 Despite the recent hits to Hong Kong's economic growth, the city has continued to be the
 most expensive housing market in the world. Applying various techniques from time series
 analysis to its real residential property prices helps us understand the changes over years and
-potentially forecast future prices. This project employs methods including Autoregressive in-
-tegrated moving average (ARIMA), exponential smoothing and Facebook Prophet to analyze
+potentially forecast future prices. This project employs methods including Autoregressive integrated
+moving average (ARIMA), exponential smoothing and Facebook Prophet to analyze
 the data across time.
 
 Through various modeling processes, a better understanding of the real residential property
